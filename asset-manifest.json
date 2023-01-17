@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RefStak/static/css/main.1d766016.css",
+    "main.js": "/RefStak/static/js/main.ad747ad2.js",
+    "index.html": "/RefStak/index.html",
+    "main.1d766016.css.map": "/RefStak/static/css/main.1d766016.css.map",
+    "main.ad747ad2.js.map": "/RefStak/static/js/main.ad747ad2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d766016.css",
+    "static/js/main.ad747ad2.js"
+  ]
+}
